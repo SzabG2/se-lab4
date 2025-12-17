@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 SUCCESS
 SUCCESS
+=======
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO
+>>>>>>> 9cb7ee2f38e20211d7bcece802e8b234ea7b833d
